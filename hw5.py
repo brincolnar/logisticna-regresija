@@ -4,6 +4,8 @@ from scipy.optimize import minimize
 
 def softmax(parameters, X):
     # dopolnite ...
+
+
     pass
 
 
